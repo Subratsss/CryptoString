@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Crypto String</string>
+    <!-- Strings used for fragments for navigation -->
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="encrypt">Encrypt</string>
+    <string name="decrypt">Decrypt</string>
+    <string name="input">Input</string>
+    <string name="submit">Submit</string>
+    <string name="result">Result:</string>
+    <string name="encryption">Encryption</string>
+    <string name="decryption">Decryption</string>
+    <string name="invalid_input">Please Enter Valid Input</string>
+</resources>
